@@ -1,0 +1,9 @@
+inherit kf5
+
+NAME="kf5-kdoctools"
+VERSION=5.9.0
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="KDE 5 documentation tools"
+DESCRIPTION="Provides tools to generate documentation in various format from
+DocBook files."
