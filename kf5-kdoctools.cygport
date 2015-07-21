@@ -7,3 +7,5 @@ CATEGORY="Devel"
 SUMMARY="KDE 5 documentation tools"
 DESCRIPTION="Provides tools to generate documentation in various format from
 DocBook files."
+
+REQUIRES="docbook-xml45 docbook-xsl"
